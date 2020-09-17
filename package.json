@@ -2,9 +2,12 @@
   "name": "fluke-back-end-challenge",
   "version": "1.0.0",
   "description": "a challenge provided by the fluke company",
-  "main": "index.js",
+  "main": "src/index.js",
   "repository": "https://github.com/vhnakai/fluke-back-end-challenge.git",
   "author": "Vitor Hugo Uso Nakai <hugo.nakai@gmail.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
 }
