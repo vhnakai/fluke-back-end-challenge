@@ -19,7 +19,7 @@ yarn install
 👤 **Vitor Hugo Uso Nakai <hugo.nakai@gmail.com>**
 
 * Github: [@vhnakai](https://github.com/vhnakai)
-* LinkedIn: [@Vitor Hugo Nakai](https://linkedin.com/in/Vitor Hugo Nakai)
+* LinkedIn: [@Vitor Hugo Nakai](https://linkedin.com/in/vitor-hugo-nakai/)
 
 ## Show your support
 
