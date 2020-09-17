@@ -14,6 +14,12 @@
 yarn install
 ```
 
+## Test with Jest
+
+```sh
+yarn jest
+```
+
 ## Author
 
 👤 **Vitor Hugo Uso Nakai <hugo.nakai@gmail.com>**
